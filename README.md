@@ -1,10 +1,9 @@
 # NTU DR2014 Body Centric Design: Project Pegas-US
 
-This is the repository for Nanyang Technological University's AY23/24 Semester 1 DR2014 Body Centric Design course project Pegas-US.
-
-https://github.com/Than-Duc-Huy/Pegas-US/assets/32756835/e364da87-410f-4d8a-8bba-57f5d7e3f903
+This is the repository for Project Pegas-US deliverables for Nanyang Technological University's AY23/24 Semester 1 Course DR2014 Body Centric Design
 
 # Project Description
+https://github.com/Than-Duc-Huy/Pegas-US/assets/32756835/e364da87-410f-4d8a-8bba-57f5d7e3f903
 
 **Project Pegas-US**: fostering connection, involving their loved ones in the prosthetic users emotional journey.
 

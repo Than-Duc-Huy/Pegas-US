@@ -2,12 +2,11 @@
 
 This is the repository for Nanyang Technological University's AY23/24 Semester 1 DR2014 Body Centric Design course project Pegas-US.
 
-<video src="./Media/preview.mp4">
+https://raw.githubusercontent.com/Than-Duc-Huy/Pegas-US/main/Media/preview.mp4
 
 # Project Description
 
-<video src="./Media/display.mp4">
-
+https://raw.githubusercontent.com/Than-Duc-Huy/Pegas-US/main/Media/display.mp4
 
 **Project Pegas-US**: fostering connection, involving their loved ones in the prosthetic users emotional journey.
 

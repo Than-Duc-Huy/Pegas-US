@@ -2,14 +2,9 @@
 
 This is the repository for Nanyang Technological University's AY23/24 Semester 1 DR2014 Body Centric Design course project Pegas-US.
 
-
 https://github.com/Than-Duc-Huy/Pegas-US/assets/32756835/e364da87-410f-4d8a-8bba-57f5d7e3f903
 
-
 # Project Description
-
-
-
 
 **Project Pegas-US**: fostering connection, involving their loved ones in the prosthetic users emotional journey.
 
@@ -18,6 +13,7 @@ The project includes 2 pieces
 |---|---|
 |The leg piece is a reimagined design of the prosthetics, allowing self-expression beyond the normal functional prosthetics| The arm piece is a wearable for the loved ones, allowing them to experience the attention that the amputee experiences. However, the attention is not of malice but of curiosity and awe|
 |The movement will control the **red** light |The movement will control the **blue** light |
+|<img src="./Media/leg.png" height="500">|<img src="./Media/arm.png" height="500">|
 
 - The lighting and the speed is reflected in both pieces
 - When the 2 lights overlap, magenta light will be shown
@@ -29,7 +25,6 @@ The project includes 2 pieces
 | <img src="./Media/breadboard.png" height="300"> | <img src="./Media/compact.jpg" height="300"> |
 | ----------------------------------------------- | -------------------------------------------- |
 | Breadboard Prototype                            | Compact                                      |
-
 
 https://github.com/Than-Duc-Huy/Pegas-US/assets/32756835/56761998-0ff6-403a-8792-1a19002b9c3b
 
